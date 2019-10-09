@@ -1,6 +1,10 @@
-## Flexi Benefits
-### HR Admin View
-#### Dashboard
+# Flexi Benefits
+## I. HR Admin View
+
+### 1. Redemption Process
+[Test Cases](flexi-benefits/redemption-process/test-cases.md)
+
+### Dashboard
 
 Name | No. Redemptions | Total Cost | Last Redemption | Action
 ------------ | ------------- | ------------- | ------------- | -------------
