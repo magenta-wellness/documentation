@@ -3,9 +3,6 @@
 2. Case #002
 
 # <a name="c001"></a>C001
-## Object Settings
-### ClaimType
-- *product: ChannelPartnerEmployerNonVoucherProduct*
 
 id | name | product | limitBase | currency | employer
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
@@ -18,3 +15,5 @@ Rdmpt Form | ClaimType{1} | limitBase: string | MONEY | |
 NonPanel Linked Product Setup | ClaimType{1} | product: ChannelPartnerEmployerNonVoucherProduct | 815 | |
 NonPanel Linked Product Setup | ClaimType{1} | limitBase: string | MONEY | |
 
+
+## 
