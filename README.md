@@ -1,3 +1,5 @@
+https://magenta-wellness.github.io/documentation/
+
 ## Magenta Wellness Documentation
 
 [Flexi-Benefits](flexi-benefits/hr-admin-view.md) to maintain and preview the content for your website in Markdown files.
