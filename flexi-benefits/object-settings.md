@@ -6,7 +6,7 @@
     1. Panel Product (linked) => a NonPanel ClaimType could be linked to a Panel CPE Product.
 1. Medical Certificates could be enabled for either NonPanel or Panel with Voucher-based or NonVoucher-based
 1. This is different from Medical Report which is only for Voucher-based Products
-1. MC Submissions for Panel Products do not need approving.
+1. MC Submissions do not need approving, only Flexi Claim Transactions do *linked/unlinked*.
 
 ### ClaimType
 - *product: ChannelPartnerEmployerNonVoucherProduct*
