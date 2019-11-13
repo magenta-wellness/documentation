@@ -7,7 +7,7 @@ This is an Entity Role for Organisations/Entities who have employees to do the c
 
 ## ApprovalPrincipal
 
-#Organisation
+# Organisation
 ## Position (IndividualMember)
 ### canApproveEmployer(employer: BusinessEmployer)
 - if hasRole(CLAIM_APPROVER)
