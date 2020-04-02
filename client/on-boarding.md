@@ -35,5 +35,5 @@ Prepare excel file
 11. As a result, 77 employee records were imported to this Product ![Image](assets/employee-import/010.png)
 
 
-**What if I want to remove all beneficiaries from the products before importing?**
+**What if I want to remove all beneficiaries from the product before importing?**
 - You can use the `Remove From Product` batch action. If you want to remove All beneficiaries, just select `All elements` ![Image](assets/employee-import/011.png)
