@@ -13,4 +13,5 @@ Expected behaviours:
 Prepare excep file
 `=IF(E2="M","Male",IF(E2="F","Female",""))`
 
+[Sample Employee Input List](assets/sample-mrbean-existing-list-update_input.xls) 
 [Sample Employee List](assets/sample-mrbean-existing-list-update.xls) 
