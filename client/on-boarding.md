@@ -19,3 +19,23 @@ Prepare excep file
 [Sample Employee List](assets/sample-mrbean-existing-list-update.xls) 
 
 ![Image](assets/employee-import/001.png)
+
+![Image](assets/employee-import/002.png)
+
+![Image](assets/employee-import/003.png)
+
+![Image](assets/employee-import/004.png)
+
+![Image](assets/employee-import/005.png)
+
+![Image](assets/employee-import/006.png)
+
+![Image](assets/employee-import/007.png)
+
+![Image](assets/employee-import/008.png)
+
+![Image](assets/employee-import/009.png)
+
+![Image](assets/employee-import/010.png)
+
+![Image](assets/employee-import/011.png)
