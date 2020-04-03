@@ -13,7 +13,7 @@ Expected behaviours:
 Prepare excel file
 
 
-1. Assume that you have an source file with random format such as this one -> [Sample Employee Input List](assets/sample-mrbean-existing-list-update_input.xls) 
+1. Assume that you have a source file with random format such as this one -> [Sample Employee Input List](assets/sample-mrbean-existing-list-update_input.xls) 
 1. As Wellness Admin, go to this page ![Image](assets/employee-import/002.png)
 1. Click on **Benefits**, it will take you to this page ![Image](assets/employee-import/003.png)
 1. Click on button **Manage Employees** of the product/benefit you want to import the list to, in this tutorial, we are importing to _Pay $10 - Plan B - Magenta Wellness_   ![Image](assets/employee-import/004.png)
