@@ -38,9 +38,3 @@ Prepare excel file
 **What if I want to remove all beneficiaries from the product before importing?**
 - You can use the `Remove From Product` batch action. If you want to remove All beneficiaries, just select `All elements` ![Image](assets/employee-import/011.png)
 
-## System overview
-### Product Perspective
-
-- Out-Patient Care will cover medical consultation and medication.
-- Along with the Clinics Island Wide, you can access our network of over 100 clinics/centres conveniently. 
-- Cost Savings is the number one criteria. Let's get the best wellness deals while managing your budget.
