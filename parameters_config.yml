@@ -1,0 +1,10 @@
+parameters:
+  database_host: magenta-lab.clouyumonze5.ap-southeast-1.rds.amazonaws.com
+  database_port: 3306
+  database_name: wellness_live
+  database_user: wellness_all
+  database_password: L6y5G3
+  mailer_transport: smtp
+  mailer_host: email-smtp.us-east-1.amazonaws.com
+  mailer_user:
+  mailer_password:
